@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = "google-protobuf"
+  s.name        = "google-protoc"
   s.version     = "3.0.0.alpha.6.0.0"
   s.licenses    = ["BSD"]
   s.summary     = "Protocol Buffers"
